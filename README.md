@@ -48,23 +48,6 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellieclint14&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieclint14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?userellieclint14&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📊 Contribution Activity
 
 <p align="center">
@@ -76,9 +59,9 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
