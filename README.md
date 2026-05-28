@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi, I'm Canol</h1>
+<h1 align="center">👋 Hi, I'm Obwolo</h1>
 
-<img width="952" height="392" alt="image" src="https://github.com/user-attachments/assets/17643eb7-0e0f-41c8-8340-fd340cc5d43a" />
+<img width="1841" height="898" alt="image" src="https://github.com/user-attachments/assets/5c180e64-73de-411c-a21c-0befc41ed943" />
+
 
 
 <p align="center">
