@@ -26,14 +26,6 @@ Tech stack: **Flutter • Firebase**
 
 ---
 
-### 🌐 ISP Billing Portal
-A full billing management platform for ISPs featuring:
-
-- MikroTik API integration.
-- Radius server authentication.
-- User subscription management.
-- Automated billing and bandwidth control.
-
 Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTik API**
 
 ---
@@ -47,25 +39,11 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge" />
 
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Canol001&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 </p>
 
 ---
@@ -73,8 +51,8 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Canol001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canol001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ellieclint14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieclint14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +60,7 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Canol001&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?userellieclint14&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +68,7 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Canol001&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellieclint14&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -98,9 +76,9 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ellieclint14/ellieclint14/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -129,11 +107,11 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Canol001&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ellieclint14&style=for-the-badge" />
 
 <br><br>
 
-<a href="mailto:oyamo.ellie.com">
+<a href="mailto:oyamo.ellie@gmail.com.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
@@ -169,15 +147,6 @@ A specialized e-commerce platform that digitalizes Kenya’s artisan economy by 
 Repository  
 https://github.com/EllieClint14/Kenyan-Ornaments
 ---
-
-## 🌍 ISP Billing Portal.
-Billing and user management system for Internet Service Providers.
-
-Repository  
-https://github.com/Canol001/dhcpay
-
----
-
 # ⚡ Fun Facts.
 
 - I automate the automators.
