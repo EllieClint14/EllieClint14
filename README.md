@@ -66,22 +66,6 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 
 ---
 
-### 📊 GitHub Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Canol001/Canol001/main/github-metrics.svg" />
-</p>
-
----
-
-# 🧪 Demo Example
-
-### Secure Vault CLI Flow
-
-<p align="center">
-  <img src="demo.svg" alt="Vault CLI Demo"/>
-</p>
-
 A terminal-based secure credential manager demonstrating authentication, encryption, and credential storage.
 
 ---
