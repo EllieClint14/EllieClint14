@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm Obwolo</h1>
+<h1 align="center">👋 Hi, I'm Elly Oyamo</h1>
 
 <img width="1841" height="898" alt="image" src="https://github.com/user-attachments/assets/5c180e64-73de-411c-a21c-0befc41ed943" />
 
 
 
 <p align="center">
-  💻 Full-Stack Developer<br>
-  🎓 BSc. Information Technology — Maseno University <br>
-  🇰🇪 Kisumu, Kenya <br><br>
-  Building secure systems, scalable apps, and useful digital systems.
+  Data Analyst | Network Engineer<br>
+  🎓 BSc. Mathematics And Computer Science — Maseno University <br>
+  🇰🇪 Nairobi, Kenya <br><br>
+  Turning raw data into actionable insights.
 </p>
 
 ---
@@ -133,23 +133,19 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 <br><br>
 
-<a href="mailto:canolowana6@gmail.com">
+<a href="mailto:oyamo.ellie.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="mailto:canolowana6@gmail.com">
+<a href="mailto:oyamo.ellie@gmail.com">
 <img src="https://img.shields.io/badge/Made in Kenya-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/owano-canol">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://x.com/venom1_9">
+<a href="https://x.com/ellieclint14">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://owano-canol.vercel.app">
+<a href="https://ellyoyamo.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?logo=internet-archive&logoColor=white&style=for-the-badge"/>
 </a>
 
@@ -159,20 +155,19 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 # 🏆 Featured Projects
 
-## 🔐 Secure Vault
-A secure credential manager with OTP login, encryption, and audit logs.
+## Alg Visualizer
+An interactive web app that animates classic sorting algorithms step by step.
 
 Repository  
-https://github.com/Canol001/secure-vault
+https://github.com/EllieClint14/algo-visualizer
 
 ---
 
-## 🍣 Restaurant QR Menu
-A QR-based restaurant ordering system built with React and Firebase.
+## 🍣 Kenyan-Ornaments
+A specialized e-commerce platform that digitalizes Kenya’s artisan economy by connecting local craftsmen directly with global consumers looking for authentic, handcrafted ornaments..
 
 Repository  
-https://github.com/Canol001/restaurant-qr-menu
-
+https://github.com/EllieClint14/Kenyan-Ornaments
 ---
 
 ## 🌍 ISP Billing Portal.
