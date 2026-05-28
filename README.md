@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Elly Oyamo</h1>
+<h1 align="center">👋 Hi, I'm ELLY OYAMO</h1>
 
 <img width="1841" height="898" alt="image" src="https://github.com/user-attachments/assets/5c180e64-73de-411c-a21c-0befc41ed943" />
 
@@ -7,7 +7,7 @@
 <p align="center">
   Data Analyst | Network Engineer<br>
   🎓 BSc. Mathematics And Computer Science — Maseno University <br>
-  🇰🇪 Nairobi, Kenya <br><br>
+   Nairobi, Kenya <br><br>
   Turning raw data into actionable insights.
 </p>
 
