@@ -88,14 +88,7 @@ ready_for: Part-time & Full-time opportunities
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieClint14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieClint14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-</div>
 
 <div align="center">
 
