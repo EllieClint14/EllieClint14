@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Full-Stack+Developer;Node.js+%7C+Python+%7C+SQL+%7C+Power+BI;Building+things+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Network+Engineer;EXCEL+%7C+SQL+%7C+Power BI+%7C+PYTHON;Turning+Raw+Data+Into+Actionable+Insights+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,11 @@
 ### 👋 About Me
 
 ```yaml
-name: Michael Mwombe
+name: Elly Clinton Oyamo
 location: Nairobi, Kenya 🇰🇪
 university: Maseno University — BSc. Mathematics & Computer Science
-role: Data Analyst + Full-Stack Developer
+role: Data Analyst + Network Engineer
 currently_building:
-  - Task Management REST API (Node.js + MongoDB)
   - Cybersecurity Audit Report (OWASP Top 10 / DVWA)
   - Kenya Economic SQL Analysis (World Bank Dataset)
 ready_for: Part-time & Full-time opportunities
@@ -73,7 +72,7 @@ ready_for: Part-time & Full-time opportunities
 | 🔌 **Task Management API** | RESTful API for agile teams — JWT auth, workspaces, CRUD, rate limiting | Node.js · Express · MongoDB | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MIKECHITI/task-management-api) |
 | 🇰🇪 **Kenya Economic SQL Analysis** | 15 advanced SQL queries on World Bank data — GDP, inflation, stagflation, trade balance | PostgreSQL · CTEs · Window Fn | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MIKECHITI/kenya-economic-sql-analysis) |
 | 🔒 **Cybersecurity Audit** | OWASP Top 10 penetration testing on DVWA with findings & remediation report | OWASP ZAP · Burp Suite · Nmap | 🔜 Coming Soon |
-| 🌐 **Personal Portfolio** | Responsive portfolio built with vanilla HTML/CSS/JS | HTML · CSS · JavaScript | [![Live](https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel)](https://mwombemichael.vercel.app) |
+| 🌐 **Personal Portfolio** | Responsive portfolio built with vanilla HTML/CSS/JS | HTML · CSS · JavaScript | [![Live](https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel)](https://ellyoyamo.vercel.app) |
 
 ---
 
@@ -81,14 +80,14 @@ ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIKECHITI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKECHITI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieClint14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieClint14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MIKECHITI&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EllieClint14&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,7 +97,7 @@ ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIKECHITI&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EllieClint14&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -108,10 +107,10 @@ ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mwombemichael.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://mwombemichael.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-@chiti__ke-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chiti_ke)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+254113112051-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254113112051)
-[![GitHub](https://img.shields.io/badge/GitHub-MIKECHITI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIKECHITI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ellyoyamo.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://ellyoyamo.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ellieclint14-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ellieclint14)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+254706037750-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254113112051)
+[![GitHub](https://img.shields.io/badge/GitHub-Ellieclint14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ellieclint14)
 
 </div>
 
@@ -119,7 +118,7 @@ ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MIKECHITI&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ellieclint14&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=100&section=footer"/>
 
