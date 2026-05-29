@@ -30,6 +30,7 @@ ready_for: Part-time & Full-time opportunities
 ### 🛠️ Tech Stack
 
 <div align="center">
+  
 ---
   
 ### 🐍 Contribution Snake
