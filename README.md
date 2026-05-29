@@ -15,23 +15,16 @@
 ### 👋 About Me
 
 ```yaml
-name: Elly Clinton Oyamo
-location: Nairobi, Kenya 🇰🇪
-university: Maseno University — BSc. Mathematics & Computer Science
-role: Data Analyst + Network Engineer
+Name: Elly Clinton Oyamo
+Location: Nairobi, Kenya 🇰🇪
+University: Maseno University — BSc. Mathematics & Computer Science
+Role: Data Analyst + Network Engineer
 currently_building:
   - Cybersecurity Audit Report (OWASP Top 10 / DVWA)
   - Kenya Economic SQL Analysis (World Bank Dataset)
-ready_for: Part-time & Full-time opportunities
+Ready_for: Part-time & Full-time opportunities
+
 ```
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
----
   
 ### 🐍 Contribution Snake
 
