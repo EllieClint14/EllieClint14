@@ -86,7 +86,7 @@ Ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ellieclint14&theme=tokyonight&cache=false)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ellieclint14&theme=tokyonight&cache=false)
 
 </div>
 
