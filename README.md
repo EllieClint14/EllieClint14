@@ -96,8 +96,7 @@ Ready_for: Part-time & Full-time opportunities
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EllieClint14&theme=tokyo-night&hide_border=true)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EllieClint14&theme=tokyo-night&hide_border=true&utc_offset=3" alt="Activity Graph" />
 </div>
 
 ---
